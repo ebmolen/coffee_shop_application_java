@@ -1,0 +1,40 @@
+Passive,1,John,Adams,jadams@yahoo.com,(205)-555-5555,3.25,true,Large,Iced,Stevia,Light,None,Filtered Coffee,Dark,Oat Milk,Light
+Passive,2,Elisabeth,Molen,emolen@uab.edu,(205)-555-5555,7.35,true,Small,Iced,None,NA,*Whipped Cream*Chocolate Syrup,Filtered Coffee,Blonde,None,NA,Small,Iced,None,NA,*Chocolate Syrup*Caramel Syrup,Americano,1,None
+Passive,3,Joe,Biden,potus@whitehouse.gov,(202)-456-1111,6.175,true,Medium,Iced,Sugar,Medium,None,Latte,2,2% Milk,Large,Hot,Brown Sugar,Light,None,Filtered Coffee,Blonde,Dairy Creamer,Light
+Passive,4,Sonia,Sotomayor,ssotomayor@scotus.gov,(202)-479-3211,14.0,false,Medium,Iced,None,NA,None,Filtered Coffee,Blonde,Oat Milk,Medium,Small,Iced,Brown Sugar,Light,*Chocolate Syrup,Americano,1,Whole Milk,Medium,Hot,Sugar,Medium,*Caramel Syrup,Cappuccino,2,Soy Milk,Medium,Hot,Agave,Medium,*Chocolate Syrup,Cappuccino,2,Soy Milk
+Passive,5,Elana,Kagan,ekagan@scotus.gov,(202)-479-3211,3.0,false,Medium,Hot,Brown Sugar,Light,None,Filtered Coffee,Medium,Almond Milk,Light
+Passive,6,Bernie,Sanders,bsanders@senate.gov,(202)-224-5141,3.5,false,Large,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA
+Passive,7,Christopher,Murphy,cmurphy@senate.gov,(202)-224-4041,3.25,false,Large,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA
+Passive,8,Josiah,Bartlet,jbartlet@dartmouth.edu,(603)-227-9123,2.75,false,Small,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA
+Passive,9,CJ,Cregg,cjcregg@whitehouse.gov,(202)-559-4321,3.25,true,Medium,Iced,Agave,Light,None,Latte,2,Almond Milk
+Passive,10,Sam,Seaborn,sseaborn@whitehouse.gov,(202)-345-6789,7.075,true,Large,Hot,Brown Sugar,Heavy,None,Filtered Coffee,Blonde,Dairy Creamer,Medium,Medium,Iced,Splenda,Light,*Chocolate Syrup,Cappuccino,3,2% Milk
+Passive,11,Josh,Lyman,jlyman@whitehouse.gov,(202)-333-7789,2.75,false,Small,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA
+Passive,12,Toby,Ziegler,tziegler,(202)-234-7891,7.075,true,Large,Hot,None,NA,None,Filtered Coffee,Dark,None,NA,Medium,Iced,Brown Sugar,Medium,*Whipped Cream*Caramel Syrup,Cappuccino,2,Almond Milk
+Passive,13,Ainsley,Hayes,ahayes@whitehouse.gov,(919)-223-4545,6.425,true,Medium,Iced,Agave,Light,None,Espresso,2,Almond Milk,Medium,Hot,Sugar,Medium,*Whipped Cream,Filtered Coffee,Blonde, 2% Milk,Medium
+Passive,14,Henry,McCord,hmccord@nwc.ndu.edu,(412)-777-5523,7.0,false,Medium,Hot,Sugar,Light,None,Cappuccino,2,Whole Milk,Large,Iced,Sugar,Light,*Caramel Syrup,Filtered Coffee,Blonde,Almond Milk,Light
+Passive,15,Elisabeth,Molen,emolen@uab.edu,(205)-555-5555,2.75,false,Small,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA
+Passive,16,Mike,Barnow,mbarnow@mb.com,(202)-127-5645,3.25,false,Large,Hot,None,NA,None,Filtered Coffee,Dark,None,NA
+Passive,17,John,Doe,jdoe@gmail.com,(555)-555-5555,3.25,false,Small,Hot,Brown Sugar,Light,*Whipped Cream,Filtered Coffee,Medium,2% Milk,Light
+Passive,18,Jane,Doe,jdoe2@gmail.com,(205)-555-5555,4.5,false,Small,Iced,None,NA,*Whipped Cream*Chocolate Syrup*Caramel Syrup*Cocoa Powder,Americano,1,None
+Active,19,Jane,Doe,jdoe@yahoo.com,(555)-456-7892,10.5,true,Medium,Hot,Sugar,Light,*Whipped Cream*Chocolate Syrup,Cappuccino,3,2% Milk,Small,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA,Small,Iced,None,NA,None,Espresso,1,None
+Active,20,Elisabeth,Molen,emolen@uab.edu,(205)-555-5555,3.375,true,Medium,Hot,Sugar,Light,None,Cappuccino,3,2% Milk
+Active,21,Emma,Thompson,emmat@gmail.com,(201)-222-2222,3.5,false,Medium,Hot,Sugar,Light,*Whipped Cream,Filtered Coffee,Medium,2% Milk,Light
+Active,22,Jessica,Day,jday@yahoo.com,(503)-123-4556,11.25,true,Medium,Hot,Sugar,Light,*Whipped Cream,Filtered Coffee,Medium,Oat Milk,Medium,Large,Hot,Splenda,Light,*Chocolate Syrup*Caramel Syrup,Espresso,4,Almond Milk,Small,Iced,None,NA,*Cocoa Powder,Filtered Coffee,Blonde,None,NA
+Active,23,Winston,Schmidt,schmidt@gmail.com,(516)-789-3322,3.25,false,Large,Hot,Splenda,Heavy,None,Filtered Coffee,Medium,Dairy Creamer,Light
+Active,24,Winston,Bishop,winnie@gmail.com,(312)-454-4422,2.75,false,Small,Iced,None,NA,None,Filtered Coffee,Blonde,None,NA
+Active,25,Lorelei,Gilmore,lgilmore@fireflyinn.com,(860)-453-8765,6.175,true,Medium,Iced,None,NA,None,Americano,2,Almond Milk,Large,Iced,Brown Sugar,Light,None,Filtered Coffee,Blonde,2% Milk,Light
+Active,26,Cece,Parekh,cece@gmail.com,(503)-233-1212,16.5,true,Medium,Hot,Brown Sugar,Light,*Whipped Cream,Latte,3,Almond Milk,Small,Iced,Splenda,Medium,*Whipped Cream,Filtered Coffee,Blonde,2% Milk,Light,Large,Iced,Sugar,Heavy,*Chocolate Syrup*Caramel Syrup*Cocoa Powder,Latte,4,Whole Milk,Medium,Hot,Agave,Light,*Chocolate Syrup,Filtered Coffee,Dark,Almond Milk,Medium
+Active,27,George,Washington,first@gmail.com,(256)-434-4444,5.0,false,Small,Iced,Sugar,Medium,*Whipped Cream*Chocolate Syrup*Caramel Syrup*Cocoa Powder,Americano,1,Soy Milk
+Active,28,Glenn,Holland,gholland@jfkhs.k12.us.gov,(503)-277-2233,3.0,true,Medium,Iced,None,Medium,None,Filtered Coffee,Blonde,Whole Milk,Light
+Active,29,Elisabeth,Molen,em@gmail.com,(205)-555-5555,10.325,true,Small,Hot,None,NA,None,Filtered Coffee,Blonde Roast,None,NA,Medium,Hot,Brown Sugar,Medium,*Whipped Cream,Cappuccino,3,Whole Milk,Large,Iced,Agave,Medium,*Whipped Cream,Filtered Coffee,Dark Roast,Almond Milk,Medium
+Active,30,Will,McAvoy,wmcavoy@acn.com,(402)-795-6667,5.8500000000000005,true,Small,Iced,Sugar,Light,*Whipped Cream,Filtered Coffee,Blonde Roast,2% Milk,Light,Medium,Iced,Brown Sugar,Heavy,None,Cappuccino,2,Whole Milk
+Active,31,Elisabeth,Molen,em@gmail.com,(205)-555-5555,6.25,false,Medium,Iced,Sugar,Light,None,Filtered Coffee,Blonde Roast,2% Milk,Medium,Medium,Iced,None,NA,None,Espresso,2,None
+Active,32,Elisabeth,Molen,em@gmail.com,(205)-555-5555,2.75,false,Small,Hot,None,NA,None,Filtered Coffee,Blonde Roast,2% Milk,Light
+Active,33,Elisabeth,Molen,em@gmail.com,(205)-555-5555,3.25,false,Small,Iced,Sugar,Light,*Whipped Cream,Filtered Coffee,Blonde Roast,Dairy Creamer,Light
+Active,34,Elisabeth,Molen,em@gmail.com,(205)-555-5555,9.75,false,Small,Iced,Agave,Light,None,Filtered Coffee,Blonde Roast,Almond Milk,Light,Medium,Hot,Brown Sugar,Light,*Chocolate Syrup,Americano,2,Oat Milk,Large,Hot,None,NA,None,Filtered Coffee,Dark Roast,None,NA
+Active,35,Jim,Harper,jharper@acn.com,(203)-455-7765,12.6,true,Medium,Hot,None,NA,None,Filtered Coffee,Dark Roast,None,NA,Large,Hot,Brown Sugar,Light,*Caramel Syrup,Latte,3,Almond Milk,Medium,Iced,Agave,Medium,*Whipped Cream,Americano,2,Almond Milk,Small,Hot,Stevia,Medium,*Chocolate Syrup,Filtered Coffee,Blonde Roast,Oat Milk,Medium
+Active,36,Maggie,Jordan,mjordan@acn.com,(313)-555-5555,7.25,false,Medium,Iced,Agave,Heavy,None,Filtered Coffee,Dark Roast,Soy Milk,Medium,Medium,Hot,Sugar,Medium,*Whipped Cream,Americano,3,Whole Milk
+Active,37,Emily,Gilmore,egilmore@dar.org,(203)-222-7575,10.35,true,Large,Hot,Sugar,Light,None,Filtered Coffee,Medium Roast,Dairy Creamer,Medium,Large,Hot,Sugar,Medium,*Chocolate Syrup,Cappuccino,3,2% Milk,Medium,Hot,Brown Sugar,Light,*Caramel Syrup*Cocoa Powder,Cappuccino,2,Whole Milk
+Active,38,Elisabeth,Molen,emolen@uab.edu,(205)-555-5555,5.625,true,Small,Iced,None,NA,*Whipped Cream,Filtered Coffee,Medium Roast,None,NA,Small,Hot,Brown Sugar,Light,None,Americano,1,Almond Milk
+Active,39,Elisabeth,Molen,emolen@uab.edu,(205)-555-5555,2.75,false,Small,Hot,Brown Sugar,Light,None,Filtered Coffee,Blonde Roast,2% Milk,Light
+Active,40,Susie,Molen,sm@yahoo.com,(205)-555-5555,2.7,true,Medium,Hot,None,NA,None,Filtered Coffee,Dark Roast,None,NA
